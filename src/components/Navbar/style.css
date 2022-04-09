@@ -8,4 +8,13 @@
 
 .logo-img {
     width: 10%;
+    height: auto;
+}
+
+@media (max-width: 800px) {
+    .logo-img {
+        width: 30%;
+        height: 35%;
+        margin-top: 0.5em;
+    }
 }
