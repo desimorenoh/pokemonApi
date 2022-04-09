@@ -1,0 +1,11 @@
+.Navbar {
+    display: flex;
+    padding: 20px;
+    background: #FF4236;
+    color: white;
+    justify-content: space-between;
+}
+
+.logo-img {
+    width: 10%;
+}
